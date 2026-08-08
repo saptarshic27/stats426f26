@@ -4,7 +4,7 @@ title: STATS 426 002
 nav_exclude: true
 permalink: /:path/
 seo:
-  type: STATS 426 002
+  type: STATS 426
   name: Introduction to Theoretical Statistics
 ---
 
@@ -12,11 +12,11 @@ seo:
 
 STATS 426 aims to introduce students to the fundamental principles and methodologies of statistical theory to upper-division undergraduate students. The course emphasizes rigorous understanding of:
 
-- **Estimation** including techniques such as the method of moments and maximum likelihood;
+- **Estimation** including techniques such as the method of moments, maximum likelihood, Optimality of Estimators, etc.;
 - **Hypothesis testing** including confidence intervals and likelihood ratio methods;
 - **Large-sample approximations** for inference;
 - **Nonparametric and Bayesian methods**
-- Theoretical foundations of comparing samples, linear models, categorical data and related topics.
+- Theoretical foundations of comparing samples, categorical data and related topics.
 
 # Important Links
 
