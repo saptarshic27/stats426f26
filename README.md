@@ -1,6 +1,6 @@
 ---
 layout: home
-title: STATS 426 002
+title: STATS 426
 nav_exclude: true
 permalink: /:path/
 seo:
