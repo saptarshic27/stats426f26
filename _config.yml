@@ -17,7 +17,7 @@ title: STATS 426
 tagline: Introduction to Theoretical Statistics
 # description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Saptarshi Chakraborty
-baseurl: '/stats426w26' # the subpath of your site, e.g. /blog
+baseurl: '/stats426f26' # the subpath of your site, e.g. /blog
 url: 'https://saptarshic27.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
