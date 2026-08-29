@@ -7,5 +7,5 @@ Sep 22
   : Rice 8.5
   
 Sep 24
-: (Lecture 8) Desirable properties of estimators: unbiasedness, consistency. The concept of UMVUE. 
+: (Lecture 8) Desirable properties of estimators: unbiasedness, consistency.
   : Rice 8.7, 8.5.2
