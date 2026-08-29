@@ -8,7 +8,7 @@ Nov 3
   : Rice 9.2, 9.4
 
 Nov 5
-: (Lecture 18) GLRT continued
+: (Lecture 18) GLRT continued. Derivation of the *t*-test. Independecne of sample mean and variance.
   : Chapter 11.2 and 6.3
   
 : **Lab 4**{: .label .label-yellow} in class on hypothesis testing.  
