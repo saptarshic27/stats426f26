@@ -2,9 +2,9 @@
 title: (Week 15) Course Review
 ---
 
-Apr 21
-: Course review and looking ahead
+Dec 8
+: (Lecture 27) Examples
 
-Apr 23
-: No class due to study break
+Dec 10
+: (Lecture 28) Course review and looking ahead
   
