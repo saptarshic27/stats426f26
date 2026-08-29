@@ -2,9 +2,9 @@
 title: (Week 8) Midterm 1
 ---
 
-Feb 24
-: Midterm Review.
+Oct 20
+: No class due to midterm break.
 
 Feb 26
 : **Midterm 1**{: .label .label-blue }
-  : In class, 2:30pm - 4:00pm
+  : **In class, 2:30pm - 4:00pm**
