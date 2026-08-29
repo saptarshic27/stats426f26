@@ -1,5 +1,5 @@
 ---
-title: (Week 7) Delta Method and Bayesian Estimation
+title: (Week 7) Bayesian Inference
 ---
 
 Oct 13
