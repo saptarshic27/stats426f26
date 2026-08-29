@@ -1,10 +1,10 @@
 ---
-title: (Week 8) Midterm 1
+title: (Week 8) Midterm
 ---
 
 Oct 20
 : No class due to midterm break.
 
-Feb 26
+Oct 22
 : **Midterm 1**{: .label .label-blue }
   : **In class, 2:30pm - 4:00pm**
