@@ -15,3 +15,4 @@ Oct 1
   : Rice 8.7, 8.5.2
 : **Lab 2**{: .label .label-yellow} in class.
 : **Coding Assignment 1**{: .label .label-red} released.
+ : **Due on Oct 11**.
