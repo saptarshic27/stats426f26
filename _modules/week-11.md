@@ -8,7 +8,7 @@ Nov 10
 
 Nov 12
 : (Lecture 20) Introduction to ordinary least squares in one dimension, estimation 
-  : Chapter 14.2
+  : Rice 14.2
   
 
 
