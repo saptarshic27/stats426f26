@@ -7,7 +7,7 @@ Sep 1
   : Rice, Chapter 2 and 4
 
 Sep 3
-: MGF continued, Joint and Conditional Distribution, Conditional Expectation, Chisquared R.V. Change of variable formula 
+: (Lecture 2) MGF continued, Joint and Conditional Distribution, Conditional Expectation, Chisquared R.V. Change of variable formula 
   : Rice, Chapter 3 (3.5, 3.6) and Chapter 4 (4.4).
 
 Sep 3
