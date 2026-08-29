@@ -7,12 +7,5 @@ Feb 9
 
 
 
-Feb 11
-: **Practice Problems 4**{: .label .label-purple} posted on [Canvas](https://umich.instructure.com/courses/824512). 
-
-
-Feb 12
-: Asymptotic Properties of MLE and other estimates, and confidence intervals.
-  : Rice 8.5.2 - 8.5.3
 
 
