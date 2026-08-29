@@ -3,8 +3,9 @@ title: (Week 1) Recap of Probability Theory
 ---
 
 Sep 1
-: Random Variables, Distributions, Expectation, Variance, Inverse CDF, Moment Generating Functions (MGF)
-  : Rice, Chapter 2 and 4
+: Lecture 1
+  : Random Variables, Distributions, Expectation, Variance, Inverse CDF, Moment Generating     Functions (MGF)
+    : Rice, Chapter 2 and 4
 
 Sep 3
 : MGF continued, Joint and Conditional Distribution, Conditional Expectation, Chisquared R.V. Change of variable formula 
