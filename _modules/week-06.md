@@ -1,11 +1,10 @@
 ---
-title: (Week 6) Bayesian 
+title: (Week 7) Estimation
 ---
 
-Feb 9
-: **Coding assignment 1**{: .label .label-purple} posted on [Canvas](https://umich.instructure.com/courses/824512). 
+Oct 6
+: The delta method. Introduction to Bayesian parametric inference  
+  : Wasserman 5.5 and 9.9., Rice 8.7
 
-
-
-
-
+Oct 8
+: **Quiz 3**{: .label .label-red } in class
