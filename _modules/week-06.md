@@ -1,5 +1,5 @@
 ---
-title: (Week 7) Estimation
+title: (Week 6) Estimation
 ---
 
 Oct 6
