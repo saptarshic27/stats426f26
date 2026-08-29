@@ -3,7 +3,7 @@ title: (Week 5) Parametric Estimation
 ---
 
 Sep 29
-: The concept of UMVUE. Fisher Information, and Cramer-Rao Lower Bound (CRLB). Proof of CRLB, examples, and interpretation. 
+: (Lecture 9) The concept of UMVUE. Fisher Information, and Cramer-Rao Lower Bound (CRLB). Proof of CRLB, examples, and interpretation. 
   : Rice 8.7, 8.5.2
 
 Oct 1
@@ -11,5 +11,5 @@ Oct 1
 
 
 Oct 1
-: Asymptotic Properties of MLE and other estimates, and confidence intervals.
+: (Lecture 10) Asymptotic Properties of MLE and other estimates, and confidence intervals.
   : Rice 8.5.2 - 8.5.3
