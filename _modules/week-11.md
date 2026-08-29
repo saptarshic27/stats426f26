@@ -2,12 +2,13 @@
 title: (Week 11) Categorical data
 ---
 
-Mar 24
-: 
+Nov 10
+: (Lecture 19) Finishing off the proof of independence between sample mean and variance. 
+: **Lab 4**{: .label .label-yellow} in class
 
-Mar 26
-: Introduction to ordinary least squares in one dimension, estimation 
+Nov 12
+: (Lecture 20) Introduction to ordinary least squares in one dimension, estimation 
   : Chapter 14.2
   
-: **Quiz 4**{: .label .label-red } in class
+
 
