@@ -2,13 +2,14 @@
 title: (Week 13) Categorical Data and Introduction to Sufficiency
 ---
 
-Apr 7
+Nov 24
 : Introduction to Sufficiency.
-  : Rice 13.1-13.4, 8.8
+: **Quiz 4**{: .label .label-red } in class
 
-Apr 9
-: **Quiz 5**{: .label .label-red } in class
+  : 8.8
 
-: **Lab 5**{: .label .label-yellow} in class.
+Nov 26
+
+: No class. Happy Thanksgiving!
 
   
