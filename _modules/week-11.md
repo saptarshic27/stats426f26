@@ -6,9 +6,11 @@ Nov 10
 : (Lecture 19) Finishing off the proof of independence between sample mean and variance. 
 : **Lab 4**{: .label .label-yellow} in class
 
+: Rice 8.5.1.
+
 Nov 12
-: (Lecture 20) Introduction to ordinary least squares in one dimension, estimation 
-  : Rice 14.2
+: (Lecture 20) Introduction to categorical data. the multinomial distribution, MLE through Lagrange multipliers.
+  : Rice 13.1 - 13.3
   
 
 
