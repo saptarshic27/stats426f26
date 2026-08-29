@@ -3,7 +3,7 @@ title: (Week 13) Categorical Data and Introduction to Sufficiency
 ---
 
 Apr 7
-: Test for independence. Introduction to Sufficiency.
+: Introduction to Sufficiency.
   : Rice 13.1-13.4, 8.8
 
 Apr 9
