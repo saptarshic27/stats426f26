@@ -11,6 +11,7 @@ Nov 10
 Nov 12
 : (Lecture 20) Introduction to categorical data. the multinomial distribution, MLE through Lagrange multipliers.
   : Rice 13.1 - 13.3
+**Quiz 3**{: .label .label-red} in class
   
 
 
