@@ -5,6 +5,7 @@ title: (Week 5) Parametric Estimation
 Sep 29
 : (Lecture 9) Fisher Information. Asymptotic Properties of MLE and confidence intervals. 
   : Rice 8.5.2 - 8.5.3 
+: **Quiz 2**{: .label .label-red} released.  
 
 Oct 1
 : **Practice Problems 4**{: .label .label-purple} posted on [Canvas](https://umich.instructure.com/courses/824512).
