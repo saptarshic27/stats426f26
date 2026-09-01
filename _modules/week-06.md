@@ -10,4 +10,3 @@ Oct 6
 Oct 8
 : (Lecture 12) Introduction to Bayesian parametric inference
   : Rice 8.6
-: **Quiz 2**{: .label .label-red } in class
