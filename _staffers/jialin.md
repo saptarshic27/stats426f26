@@ -1,9 +1,9 @@
 ---
-name: Andrej Leban
+name: Parijat Chakraborty
 role: Teaching Assistant
-email: leban@umich.edu
+email: cparijat@umich.edu
 photo: andrej.jpg
 meta:
-  Office Hours: Thursday, 4-5 pm, G219 Angell Hall.
+  Office Hours: Thursday, 4-5:30 pm and Friday 2-3:30, G219 Angell Hall.
 ---
 
