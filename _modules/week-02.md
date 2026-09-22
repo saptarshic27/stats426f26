@@ -14,5 +14,8 @@ Sep 10
   : Rice, Chapter 5.1-5.3
 : **Lab 1**{: .label .label-yellow} on simulation of LLN and CLT
 
+Sep 11
+: **Practice Problems 2**{: .label .label-purple} posted on [canvas](https://umich.instructure.com/courses/874840)
+
   
 
