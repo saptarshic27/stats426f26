@@ -15,9 +15,20 @@ description: A listing of all the course staff members.
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 
+{% assign graders = site.staffers | where: 'role', 'Grader' %}
+{% assign num_grader = graders | size %}
+{% if num_teaching_assistants != 0 %}
+
 ## GSI
 
 {% for staffer in teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
+## Grader
+
+{% for staffer in graders %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
