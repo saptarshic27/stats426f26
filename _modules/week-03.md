@@ -10,4 +10,4 @@ Sep 15
 Sep 17
 : (Lecture 6) Introduction to parameter estimation, fitting distributions, method of moments, examples, intro to MLEs. 
   : Rice 8.1 - 8.5
-: **Practice Problems 2**{: .label .label-purple} posted on [canvas](https://umich.instructure.com/courses/824512)  
+: **Practice Problems 3**{: .label .label-purple} posted on [canvas](https://umich.instructure.com/courses/824512)  
