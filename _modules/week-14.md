@@ -9,4 +9,5 @@ Dec 1
 Dec 3
 : (Lecture 26) Rao-Blackwell theorem to find UMVUEs and examples
   : Rice 8.8 
+: **Quiz 5**{: .label .label-red } in class
   
